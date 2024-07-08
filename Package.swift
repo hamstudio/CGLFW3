@@ -3,5 +3,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CGLFW3"
+    name: "CGLFW3",
+    version: "1.0.0",
 )
